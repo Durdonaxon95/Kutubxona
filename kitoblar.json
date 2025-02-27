@@ -1,4 +1,5 @@
-[{"Id":1,"Nomi":"O'tgan kunlar","Muallifi":" Abdulla Qodiriy","JamiKitoblar":5,"QolganKitoblar":5,"Olganlar":[]},
-{"Id":2,"Nomi":"Alisher Navoiy","Muallifi":"Oybek","JamiKitoblar":5,"QolganKitoblar":5,"Olganlar":[]},
-{"Id":3,"Nomi":"Otamdan qolgan dalalar","Muallifi":"Tog'ay Murod","JamiKitoblar":5,"QolganKitoblar":5,"Olganlar":[]}
+[
+  {"Id":1,"Nomi":"O'tgan kunlar","Muallifi":" Abdulla Qodiriy","JamiKitoblar":5,"QolganKitoblar":5,"Olganlar":[]},
+  {"Id":2,"Nomi":"Alisher Navoiy","Muallifi":"Oybek","JamiKitoblar":5,"QolganKitoblar":5,"Olganlar":[]},
+  {"Id":3,"Nomi":"Otamdan qolgan dalalar","Muallifi":"Tog'ay Murod","JamiKitoblar":5,"QolganKitoblar":5,"Olganlar":[]}
 ]
