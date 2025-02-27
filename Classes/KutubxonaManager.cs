@@ -8,7 +8,7 @@ namespace Kutubxona.Classes
         {
             Console.WriteLine("\nKitoblar ro'yxati: ");
             for (int integer = 0; integer < kitoblar.Count; integer++)
-                Console.WriteLine($"{integer + 1}. {kitoblar[integer].Nomi} ({kitoblar[integer].QolganKitoblar} ta mavjud()");
+                Console.WriteLine($"{integer + 1}. {kitoblar[integer].Nomi} ({kitoblar[integer].QolganKitoblar} ta mavjud)");
 
         }
         

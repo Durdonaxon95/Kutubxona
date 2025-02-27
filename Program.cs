@@ -17,7 +17,7 @@ namespace Kutubxona.Classes
             {
                 if (foydalanuvchi == null)
                 {
-                    Console.WriteLine("\nMenyu\n1. Kirish\n2.Ro'yxatdan o'tish\n3. Chiqish");
+                    Console.WriteLine("\nMenyu\n1. Kirish\n2. Ro'yxatdan o'tish\n3. Chiqish");
                     var tanlov = Console.ReadLine();
                     switch (tanlov)
                     {
