@@ -1,0 +1,19 @@
+[
+    {
+        "Id":1,
+        "Nomi": "O'tgan kunlar",
+        "Muallifi": " Abdulla Qodiriy",
+        "Jami soni": "5",
+        "Qolganlari":"5",
+        "Olganlar":[]
+        
+    },
+    {
+        "Id":2,
+        "Nomi": "Alisher Navoiy",
+        "Muallifi": "Oybek",
+        "Jami soni": "5",
+        "Qolganlari":"5",
+        "Olganlar":[]
+    }
+]
